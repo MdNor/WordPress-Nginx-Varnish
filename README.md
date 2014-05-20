@@ -21,4 +21,4 @@ replace
 
 ##Alternative
 
-I'm operating managed WordPress hosting loosely based on this setup and if you want affordable high performance WordPress installation without the hassle of server configuration, you can do so at [KittySensei](http://www.kittysensei.com) website.
+I'm operating WordPress hosting loosely based on this setup
